@@ -70,9 +70,9 @@ The current implementation includes a fully designed and tested **5 V buck conve
 
 ✔ Initial hardware testing completed
 
-⬜ 3.3 V output implementation
+✔ 3.3 V output implementation
 
-⬜ 12 V output implementation
+✔ 12 V output implementation
 
 ⬜ Protection circuitry
 
