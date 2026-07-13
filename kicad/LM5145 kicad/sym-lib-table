@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "lm5145kicad-altium-import")(type "KiCad")(uri "${KIPRJMOD}/lm5145kicad-altium-import.kicad_sym")(options "")(descr ""))
+)
